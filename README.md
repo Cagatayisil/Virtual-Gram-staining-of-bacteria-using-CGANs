@@ -1,4 +1,4 @@
-# Virtual Gram staining of bacteria using GANs
+# Virtual Gram staining of labe-free bacteria using CGANs
  Test code to run the trained virtual Gram staining model
 
 
@@ -10,20 +10,20 @@ A Conditional GAN was trained to perform virtual Gram staining of label-free bac
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: center;">
     <strong>Input images</strong><br>
-    <img src="exp_1/test_images/2_22_inp_df_0min1plus1_2.jpg" width="300"/>
-    <img src="exp_1/test_images/5_38_inp_df_0min1plus1_2.jpg" width="300"/>
+    <img src="exp_1/test_images/2_22_inp_df_0min1plus1_2.jpg" width="200"/>
+    <img src="exp_1/test_images/5_38_inp_df_0min1plus1_2.jpg" width="200"/>
     <!-- Add more input images as needed -->
   </div>
   <div style="text-align: center;">
     <strong>Output images</strong><br>
-    <img src="exp_1/test_images/2_22_out.jpg" width="300"/>
-    <img src="exp_1/test_images/5_38_out.jpg" width="300"/>
+    <img src="exp_1/test_images/2_22_out.jpg" width="200"/>
+    <img src="exp_1/test_images/5_38_out.jpg" width="200"/>
 
   </div>
   <div style="text-align: center;">
     <strong>Target images</strong><br>
-    <img src="exp_1/test_images/2_22_tar.jpg" width="300"/>
-    <img src="exp_1/test_images/5_38_tar.jpg" width="300"/>
+    <img src="exp_1/test_images/2_22_tar.jpg" width="200"/>
+    <img src="exp_1/test_images/5_38_tar.jpg" width="200"/>
 
   </div>
 </div>

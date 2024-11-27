@@ -33,7 +33,7 @@ A Conditional GAN was trained to perform virtual Gram staining of label-free bac
 
 
 ## How to start
-* Download test data and checkpoints from this [link](https://drive.google.com/drive/folders/1f9eNcxyflmZJ7G47pdd6KyEzRdBxuTiU?usp=drive_link).
+* Download test data and checkpoints from this [link](https://drive.google.com/drive/folders/1f9eNcxyflmZJ7G47pdd6KyEzRdBxuTiU?usp=drive_link) or this [Zenodo link](https://zenodo.org/records/14232054)
 * Move test_data and ckpts folders into the repository folder.
 * Run test_npy.py file in your CPU or GPU.
 

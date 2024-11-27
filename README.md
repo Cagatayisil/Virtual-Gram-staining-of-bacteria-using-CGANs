@@ -1,5 +1,5 @@
 # Virtual Gram staining of label-free bacteria using CGANs
- Test code to run the trained virtual Gram staining model
+ Test code to run the trained virtual Gram staining model.
 
 
 This repository contains the test code and trained checkpoints of [Virtual Gram staining of label-free bacteria using darkfield microscopy and deep learning](https://arxiv.org/abs/2407.12337).

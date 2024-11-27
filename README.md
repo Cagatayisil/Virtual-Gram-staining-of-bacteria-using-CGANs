@@ -1,4 +1,4 @@
-# Virtual Gram staining of labe-free bacteria using CGANs
+# Virtual Gram staining of label-free bacteria using CGANs
  Test code to run the trained virtual Gram staining model
 
 

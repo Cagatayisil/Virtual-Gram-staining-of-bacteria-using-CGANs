@@ -1,4 +1,7 @@
 # Virtual Gram staining of label-free bacteria using CGANs
+
+[![DOI](https://zenodo.org/badge/894327862.svg)](https://doi.org/10.5281/zenodo.14231981)
+
  Test code to run the trained virtual Gram staining model.
 
 

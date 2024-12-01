@@ -2,10 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14232360.svg)](https://doi.org/10.5281/zenodo.14232360)
 
-
- Test code to run the trained virtual Gram staining model.
-
-
 This repository contains the test code and trained checkpoints of [Virtual Gram staining of label-free bacteria using darkfield microscopy and deep learning](https://arxiv.org/abs/2407.12337).
 
 A Conditional GAN was trained to perform virtual Gram staining of label-free bacteria.
